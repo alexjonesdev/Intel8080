@@ -1,0 +1,7 @@
+[package]
+name = "Intel8080"
+version = "0.1.0"
+authors = ["Alex Jones <alexjonesdev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
